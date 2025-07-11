@@ -51,8 +51,8 @@ customer-churn-prediction/
 
 ## 🚀 Results
 
-- ✅ Best Model: [Update with your best performing model]  
-- 🎯 Accuracy Achieved: **[e.g. 84%]**  
+- ✅ Best Model: [Random Forest]  
+- 🎯 Accuracy Achieved: 77.85% 
 - 🔍 Key Features Affecting Churn:  
   - Tenure  
   - Contract Type  

@@ -64,7 +64,7 @@ customer-churn-prediction/
 ## 🧠 How to Run
 
 ```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/Ashab-Khan/customer-churn-prediction.git
 cd customer-churn-prediction
 jupyter notebook Customer_Churn_Prediction_Project_Using_ML.ipynb
 
